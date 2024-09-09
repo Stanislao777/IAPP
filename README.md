@@ -5,21 +5,28 @@ Este es un sistema completo de registro para un instituto, desarrollado con Angu
 ## Tecnologías Utilizadas
 
 ### Frontend:
-- [Angular](https://angular.io/)
+- [Angular](https://angular.io/)  
   ![Angular](https://img.shields.io/badge/Angular-v18.2.3-red?logo=angular)
   
 ### Backend:
-- [Node.js](https://nodejs.org/)
+- [Node.js](https://nodejs.org/)  
   ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green?logo=node.js)
-- [Express](https://expressjs.com/)
+- [Express](https://expressjs.com/)  
   ![Express](https://img.shields.io/badge/Express-v4.17-blue?logo=express)
 
-### Base de Datos:
-- [MongoDB](https://www.mongodb.com/)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-v7.0-green?logo=mongodb)
+### Base de Datos y Servidor:
+- [MySQL](https://www.mysql.com/)  
+  ![MySQL](https://img.shields.io/badge/MySQL-v4.5.1-blue?logo=mysql)
+  
+- [MariaDB](https://mariadb.org/)  
+  ![MariaDB](https://img.shields.io/badge/MariaDB-v10.1.10-blue?logo=mariadb)
+
+- [Apache](https://httpd.apache.org/)  
+  ![Apache](https://img.shields.io/badge/Apache-v2.4.17-red?logo=apache)  
+
 
 ### Control de Versiones:
-- [Git](https://git-scm.com/)
+- [Git](https://git-scm.com/)  
   ![Git](https://img.shields.io/badge/Git-v2.44.0-orange?logo=git)
 
 ---
