@@ -36,7 +36,7 @@ Este es un sistema completo de registro para un instituto, desarrollado con Angu
 El sistema está dividido en dos partes principales:
 
 - **Frontend (Angular)**: Interfaz de usuario con pantallas de registro, listas de estudiantes, profesores y cursos.
-- **Backend (Node.js + Express)**: API para manejar las peticiones de registro, autenticación, y gestión de datos con MongoDB.
+- **Backend (Node.js + Express)**: API para manejar las peticiones de registro, autenticación, y gestión de datos con MySQL.
 
 ---
 
